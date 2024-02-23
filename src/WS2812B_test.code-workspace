@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../../../../Arduino/WS2812B_test"
+		},
+		{
+			"name": "WS2812B_test",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
